@@ -7,7 +7,9 @@ I’ve worked in both Windows and Linux environments, focusing on network securi
 Workshop leader at Cybersecuriy Academy
 
 
-🚀 Skills
+### 🚀 Skills
+
+
 Programming & Web Development: C, C#, PowerShell, JavaScript, HTML/CSS, Angular, Vue.js, ASP.NET, Entity Framework
 Networking & Forensics: Wireshark, Snort (IDS/IPS), TCP/IP, SSL/TLS, SSH
 Cloud Security & Infrastructure: Azure, EntraID, Intune, Kubernetes, Docker, Terraform
