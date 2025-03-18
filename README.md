@@ -6,6 +6,15 @@ I’ve worked in both Windows and Linux environments, focusing on network securi
 
 Workshop leader at Cybersecuriy Academy
 
+
+🚀 Skills
+Programming & Web Development: C, C#, PowerShell, JavaScript, HTML/CSS, Angular, Vue.js, ASP.NET, Entity Framework
+Networking & Forensics: Wireshark, Snort (IDS/IPS), TCP/IP, SSL/TLS, SSH
+Cloud Security & Infrastructure: Azure, EntraID, Intune, Kubernetes, Docker, Terraform
+CI/CD & Tools: Github, GitHub Actions, Unit Test
+OS & Virtualization: Windows Server, Linux, Vagrant, Oracle VirtualBox
+
+
 <!--
 **afroTechnologist/afroTechnologist** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
