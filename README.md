@@ -24,7 +24,9 @@ Workshop leader at Cybersecuriy Academy
 
 ## 📫 How to Reach Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)]([text](https://www.linkedin.com/in/helen-mehari/))
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/helen-mehari/)
+
 
 <!--
 **afroTechnologist/afroTechnologist** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
