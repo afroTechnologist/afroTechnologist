@@ -10,11 +10,11 @@ Workshop leader at Cybersecuriy Academy
 ### 🚀 Skills
 
 
-Programming & Web Development: C, C#, PowerShell, JavaScript, HTML/CSS, Angular, Vue.js, ASP.NET, Entity Framework
-Networking & Forensics: Wireshark, Snort (IDS/IPS), TCP/IP, SSL/TLS, SSH
-Cloud Security & Infrastructure: Azure, EntraID, Intune, Kubernetes, Docker, Terraform
-CI/CD & Tools: Github, GitHub Actions, Unit Test
-OS & Virtualization: Windows Server, Linux, Vagrant, Oracle VirtualBox
+**Programming & Web Development:** C, C#, PowerShell, JavaScript, HTML/CSS, Angular, Vue.js, ASP.NET, Entity Framework
+**Networking & Forensics:** Wireshark, Snort (IDS/IPS), TCP/IP, SSL/TLS, SSH
+**Cloud Security & Infrastructure:** Azure, EntraID, Intune, Kubernetes, Docker, Terraform
+**CI/CD & Tools:** Github, GitHub Actions, Unit Test
+**OS & Virtualization:** Windows Server, Linux, Vagrant, Oracle VirtualBox
 
 
 <!--
